@@ -1,0 +1,18 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# material interno (nunca versionar)
+.claude/
+*gabarito*
+*GABARITO*
+*avaliador*
+*AVALIADOR*
+referencia/
+dados_limpos_para_entrega4/
+gerar_dados.py
+conferir_numeros.py
+perguntas_banca.py
