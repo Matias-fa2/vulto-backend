@@ -1,0 +1,44 @@
+REGRAS DA OPERACAO VULTO - versao 2026 (Diego / Operacoes)
+=============================================================
+(se tiver conflito com a planilha da Marina, vale ESSE arquivo. ou pergunta pra mim)
+
+ESTOQUE
+- O estoque oficial e o do sistema (tabela estoque). Contagem fisica e so pra conferencia.
+- Site e App vendem do estoque do CD. Cada um tem sua "loja" no sistema (5 e 6) pra nao misturar.
+- Desde jun/26 (piloto) pedido do site de SP pode sair da loja Pinheiros (ship from store) se o CD
+  nao tiver. Isso e anotado no obs do pedido. O sistema baixa do site mesmo assim, depois a gente acerta.
+- Transferencia CD -> loja: a loja anota quando recebe. O CD anota quando manda. Uma das duas basta.
+- Estoque negativo pode acontecer (venda antes da entrada ser lancada). Nao precisa corrigir.
+
+CUSTO
+- Custo do produto = custo MEDIO ponderado (regra do financeiro/contabilidade).
+- Para precificar coleção nova usar o ultimo custo.
+
+PRECO
+- Se a peca esta em duas colecoes, vale o MENOR preco (pra nao dar problema com Procon).
+- Promocao (Black Friday, liquida) e dada no PDV/site. Nao fica registrada em lugar nenhum. A Marina tem anotado.
+
+FATURAMENTO
+- Faturamento = soma do total das vendas (relatorio do sistema).
+- Frete do site entra no faturamento (o cliente paga pra gente).
+  ** o financeiro (Paula) discorda: frete e repasse pra transportadora e NAO e receita. ver com ela **
+- Venda e contada na data do pedido.
+- Venda cancelada nao conta. (o relatorio ja tira? confirmar com TI)
+
+TROCAS E DEVOLUCOES
+- Prazo de troca: 30 dias corridos da compra (Codigo de Defesa do Consumidor da 7 pra compra online).
+- Troca na loja: registrar como venda nova com obs "troca" pra baixar o estoque da peca nova.
+- Devolucao com estorno: lancar venda com valor negativo.
+- Troca de compra do site pode ser feita na loja.
+
+FIDELIDADE
+- Ver aba LEIA ISSO na planilha de clientes.
+- Ponto so e creditado depois do pagamento aprovado. (o sistema credita na hora, TODO)
+- Cliente que cancelou a compra perde os pontos daquela compra (estorno manual tipo E).
+
+LOJAS
+- Batel ficou sem PDV de 02/03 a 22/03/2026. Vendas na planilha vendas_batel_MANUAL_marco.xlsx.
+  A gerente relancou no sistema "as principais" quando voltou.
+- Eldorado trocou o servidor do PDV em fev/26.
+
+DUVIDAS: Diego (operacoes) / Paula (financeiro) / Marina (compras)
